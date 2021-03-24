@@ -1,4 +1,4 @@
-# xylophone2
+# xylophone
 
 A new Flutter application.
 
